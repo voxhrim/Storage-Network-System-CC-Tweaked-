@@ -1,4 +1,4 @@
-# Storage-Network-System-CC-Tweaked-
+# Storage-Network-System-CC-Tweaked- v 1.0
 Wireless storage monitor for ComputerCraft
 
 
